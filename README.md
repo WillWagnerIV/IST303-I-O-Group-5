@@ -3,10 +3,10 @@ Group repo for IST I/O Group 5 project files
 
 
 Group Members:
-Adhikari, Abinash
-Chipidza, Wallace (Instructor)
-Oguejiofor, Chukwudi
-Shrestha, Indu (TA)
-Wagner, William
-Xiang, Siyu 
-Al-kayed, Manar
+Abinash Adhikari, 
+Wallace Chipidza (Instructor),
+Chukwudi Oguejiofor, 
+Indu Shrestha (TA),
+William Wagner,
+Siyu Xiang, 
+Manar Al-kayed
