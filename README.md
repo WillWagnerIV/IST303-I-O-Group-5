@@ -3,7 +3,6 @@ Group repo for IST I/O Group 5 project files
 
 
 Group Members:
-
 Adhikari, Abinash
 Chipidza, Wallace (Instructor)
 Oguejiofor, Chukwudi
