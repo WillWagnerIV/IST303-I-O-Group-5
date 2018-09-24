@@ -32,7 +32,7 @@ while True:
     try: 
         
         if int(numIn) < 0 :
-            print("That was a negative integer.")
+            raise ValueError("not non negetive number") #stop the program on negetive integer
                 
         elif int(numIn) % 2 == 0:
             print(numIn + " is an even number")
@@ -41,5 +41,6 @@ while True:
             print(numIn + " is an odd number")
 
     except ValueError:
+        # exception occurs when type is not integer and program is stopped
         print("This program only accepts non-negative integers as input.")
         break
